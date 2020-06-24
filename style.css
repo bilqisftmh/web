@@ -1,0 +1,29 @@
+body{
+			background-color: mediumaquamarine;
+			border-style: solid;
+			border-color: black
+			border-radius: 20px;
+		}
+h1{
+			font-size: 50px;
+			background-color:lavender;
+			text-align: center;
+			color: black; 
+			font-family: 'press start 2P', cursive;
+		}
+		#second{
+			color: #e7305b;
+			text-align :center;
+			font-family: 'sriracha',cursive;
+		}
+		p{
+			text-align: center;
+			font-size: 20pt;
+		}
+		.footer{
+			text-align: center;
+			text-decoration: bold;
+			text-decoration: underline;
+			color: rgb(010,000,144);font-size:18pt;
+		}
+		
